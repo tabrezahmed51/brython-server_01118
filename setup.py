@@ -24,7 +24,7 @@ setuptools.setup(
         'gunicorn==19.9.0',
         'Flask==2.1.2',
         'werkzeug==2.1.2',
-        'pillow==10.2.0',
+        'pillow==10.3.0',
         'ggame==1.1.3',
     ],
     classifiers=[
