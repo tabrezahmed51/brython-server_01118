@@ -2,7 +2,7 @@ Flask==2.2.5
 Jinja2== 3.1.2
 MarkupSafe==2.1.1
 Werkzeug==2.1.2
-gunicorn==19.9.0
+gunicorn==22.0.0
 itsdangerous==2.1.2
 brython==3.11.2
 ggame==1.1.3

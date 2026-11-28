@@ -21,7 +21,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires='>=3.11',
     install_requires=[
-        'gunicorn==19.9.0',
+        'gunicorn==22.0.0',
         'Flask==2.2.5',
         'werkzeug==2.1.2',
         'pillow==10.3.0',
