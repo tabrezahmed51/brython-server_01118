@@ -23,8 +23,8 @@ setuptools.setup(
     install_requires=[
         'gunicorn==22.0.0',
         'Flask==2.2.5',
-        'werkzeug==2.1.2',
-        'pillow==10.3.0',
+        'werkzeug==3.1.9',
+        'pillow==13.0.0',
         'ggame==1.1.3',
     ],
     classifiers=[
